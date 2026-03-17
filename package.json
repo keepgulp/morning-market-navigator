@@ -1,0 +1,18 @@
+{
+  "name": "morning-market-navigator",
+  "version": "1.0.0",
+  "description": "早市摊位分布图 - 智能导航系统",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "init-data": "node src/scripts/initData.js"
+  },
+  "keywords": ["market", "navigator", "morning"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sql.js": "^1.10.3",
+    "cors": "^2.8.5"
+  }
+}

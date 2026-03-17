@@ -1,0 +1,17 @@
+# 依赖
+node_modules/
+
+# 数据
+data/
+*.db
+
+# 日志
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统
+.DS_Store
